@@ -8,6 +8,10 @@ Crop Intelligence System is a machine learning-based agricultural decision suppo
 
 Are farmers growing the most suitable crops for their climate conditions?
 
+## System Architecture 
+<img width="200" height="332" alt="image" src="https://github.com/user-attachments/assets/9c57ae88-111d-42cf-b7bf-d30f79d78203" />
+
+
 ## Features
 
 * Crop recommendation using Machine Learning
@@ -30,11 +34,11 @@ Are farmers growing the most suitable crops for their climate conditions?
 * Stacking Ensemble
 * LightGBM
 
-## Results
-
+## Key Results
 * Random Forest Accuracy: 99.3%
-* SHAP Feature Analysis
-* ₹1,791 Crore estimated annual opportunity loss identified
+* SHAP identified Humidity as the strongest predictor
+*  ₹1,791 Crore estimated annual opportunity loss
+*  100% crop-climate mismatch across analyzed states
 
 ## Technologies
 
