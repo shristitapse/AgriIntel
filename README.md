@@ -1,4 +1,5 @@
 # AgriIntel
+### Explainable AI Framework for Crop Recommendation, Yield Prediction, and Economic Opportunity Analysis
 
 ## Overview
 
